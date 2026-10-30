@@ -63,9 +63,4 @@ Open `http://localhost:8501`.
 
 Use consented sample footage and avoid uploading sensitive classroom recordings to public hosting. The local SQLite database stores analysis reports and teacher review records, but not media files. Delete `classpulse.db` to clear local saved history.
 
-## GitHub and demo
 
-Create a repository in your own GitHub account and push this folder. Do not upload real student recordings or the local `classpulse.db` file. A `localhost` URL is not a public demo. If you need a mentor demo, use a synthetic/demo clip and a deployment that complies with your institution's privacy rules.
-=======
-# Multimodal-Attendance-Engagement-Agent
->>>>>>> e9914d14527b417aea93916886df0dfbee986a6e
