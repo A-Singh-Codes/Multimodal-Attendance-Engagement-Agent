@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClassPulse AI — Multimodal Attendance & Session Activity
 
 A local-first Python/Streamlit prototype for classroom session review. It detects visible faces in sampled video frames, associates detections into approximate anonymous tracks, estimates sustained-presence signals and face-centre movement, measures audio energy/quiet intervals, generates transparent teaching prompts, and stores reports locally in SQLite.
@@ -65,3 +66,6 @@ Use consented sample footage and avoid uploading sensitive classroom recordings 
 ## GitHub and demo
 
 Create a repository in your own GitHub account and push this folder. Do not upload real student recordings or the local `classpulse.db` file. A `localhost` URL is not a public demo. If you need a mentor demo, use a synthetic/demo clip and a deployment that complies with your institution's privacy rules.
+=======
+# Multimodal-Attendance-Engagement-Agent
+>>>>>>> e9914d14527b417aea93916886df0dfbee986a6e
